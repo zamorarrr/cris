@@ -1,0 +1,1123 @@
+# HUELLA DIGITAL: PIENSA ANTES DE PUBLICAR
+
+## Estructura completa de la página web educativa
+
+**Institución de referencia:** Colegio Diego Montaña Cuéllar IED  
+**Grado:** Undécimo  
+**Ubicación:** Usme, Bogotá D. C.  
+**Áreas:** Tecnología e Informática y Educación Ética y en Valores Humanos  
+**Formato:** Página web educativa interactiva  
+**Identidad visual:** Azul y blanco, con estilo editorial contemporáneo  
+**Recorrido:** Seis módulos, un caso principal y una actividad integradora.
+
+# 1. Concepto general de la página
+
+HUELLA DIGITAL será una página web diseñada para que los estudiantes reflexionen sobre lo que publican y comparten en redes sociales y las consecuencias que estas acciones pueden generar.
+
+La experiencia estará basada en una historia principal que se desarrollará progresivamente: un estudiante publica fotografías y un video de una reunión con compañeros. La publicación empieza a circular, algunas personas se sienten incómodas y aparecen consecuencias que inicialmente no habían sido consideradas.
+
+A partir de esta historia se desarrollarán seis módulos que permitirán examinar la identidad digital, la privacidad, el consentimiento, la permanencia de los contenidos, la responsabilidad y el proyecto de vida.
+
+El estudiante no será un espectador que solamente lee información. Tendrá que analizar situaciones, tomar decisiones, escribir sus argumentos, conocer las consecuencias y elaborar materiales propios que demuestren sus aprendizajes.
+
+La página estará diseñada para que la información sea visualmente agradable, fácil de comprender y organizada de manera progresiva.
+
+# 2. Identidad gráfica y diseño visual
+
+## 2.1. Concepto visual
+
+El diseño estará inspirado en publicaciones digitales, ventanas de conversación, tarjetas informativas y elementos propios de los entornos tecnológicos, pero con una apariencia limpia y organizada.
+
+La página no imitará de manera exacta a una red social comercial. Tendrá una identidad propia, con publicaciones y perfiles ficticios creados especialmente para el proyecto.
+
+Se buscará un equilibrio entre una apariencia moderna, una lectura cómoda y una navegación sencilla.
+
+## 2.2. Paleta de colores
+
+- Azul noche `#092E5D`: encabezados, navegación y bloques principales.
+- Azul principal `#1557A6`: botones, enlaces y elementos interactivos.
+- Azul cielo `#6FB9F3`: acentos, ilustraciones y detalles gráficos.
+- Azul hielo `#EAF5FF`: fondos de secciones y actividades.
+- Blanco `#FFFFFF`: fondos de lectura y tarjetas.
+- Gris azulado `#52677F`: textos secundarios.
+- Azul tinta `#17314F`: texto principal.
+
+El azul se utilizará como color de identidad y el blanco dará equilibrio visual. Se evitarán fondos demasiado cargados y combinaciones que dificulten la lectura.
+
+## 2.3. Tipografía
+
+Se propone utilizar Plus Jakarta Sans para títulos y elementos destacados, e Inter para los textos educativos.
+
+Los títulos principales deberán tener un tamaño aproximado de 40 a 52 píxeles en pantallas grandes, mientras que los títulos de sección se ubicarán entre 26 y 34 píxeles.
+
+Los textos de lectura tendrán aproximadamente 17 o 18 píxeles, con un interlineado amplio. Los párrafos deberán tener una longitud moderada para facilitar la comprensión.
+
+En dispositivos móviles, los tamaños se ajustarán para evitar que los contenidos se salgan de la pantalla.
+
+## 2.4. Imágenes e ilustraciones
+
+La página incluirá imágenes diseñadas para acompañar los contenidos, sin utilizarlas solamente como decoración.
+
+Se propone elaborar:
+
+- Una ilustración principal para la portada.
+- Una ilustración representativa para cada módulo.
+- Ilustraciones de los personajes del caso central.
+- Publicaciones ficticias diseñadas como ejemplos.
+- Representaciones visuales de las consecuencias de una publicación.
+- Iconos propios para los valores y conceptos éticos.
+- Recursos gráficos para las actividades y los materiales que elaborarán los estudiantes.
+
+Las imágenes deberán mantener un mismo estilo: colores azules, fondos claros, personajes expresivos y composiciones sencillas.
+
+No se utilizarán fotografías personales de estudiantes reales ni imágenes que permitan identificar situaciones sensibles de integrantes de la institución.
+
+## 2.5. Diseño de las tarjetas y elementos
+
+Las tarjetas tendrán fondo blanco, bordes redondeados y sombras suaves. Cada tarjeta deberá presentar una sola idea principal.
+
+Los botones serán claramente identificables y utilizarán textos como «Explorar», «Analizar el caso», «Comparar alternativas», «Revisar mi decisión» y «Crear mi material».
+
+Las actividades de decisión mostrarán opciones de forma ordenada, con suficiente espacio para que los estudiantes puedan leer antes de seleccionar.
+
+Las retroalimentaciones estarán acompañadas de explicaciones claras, no solamente de símbolos de aprobación o desaprobación.
+
+Las transiciones entre pantallas serán breves y suaves para evitar distracciones.
+
+# 3. Arquitectura general de la página web
+
+La página tendrá ocho secciones principales:
+
+1. Inicio y bienvenida.
+2. Presentación de HUELLA DIGITAL.
+3. Exploración del problema ético.
+4. Ruta de seis módulos.
+5. Desarrollo interactivo de los módulos.
+6. Portafolio de creaciones.
+7. Actividad integradora final.
+8. Biblioteca, glosario y créditos.
+
+## 3.1. Encabezado y navegación
+
+El encabezado estará presente en las secciones principales e incluirá:
+
+**Logotipo:** símbolo de huella digital acompañado del nombre HUELLA DIGITAL.
+
+**Opciones de navegación:**
+
+- Inicio.
+- Mi recorrido.
+- Módulos.
+- Mis creaciones.
+- Recursos.
+- Acerca del proyecto.
+
+En dispositivos móviles se utilizará un menú desplegable.
+
+La navegación deberá permitir regresar al inicio, continuar el módulo y reconocer la sección actual.
+
+# 4. Pantalla de inicio
+
+## 4.1. Diseño de la portada
+
+La primera pantalla tendrá un fondo azul noche y una ilustración amplia de un teléfono móvil rodeado de tarjetas que representen publicaciones, mensajes e imágenes.
+
+La composición utilizará un título grande, una explicación breve y un botón principal.
+
+### Texto principal
+
+**HUELLA DIGITAL**
+
+### Frase de bienvenida
+
+**Lo que compartes también cuenta tu historia.**
+
+### Texto introductorio
+
+Cada fotografía, comentario o video que publicamos puede llegar a personas que no imaginábamos. A veces compartimos algo para divertirnos, contar una experiencia o expresar una opinión, sin pensar en todo lo que puede pasar después.
+
+En HUELLA DIGITAL explorarás situaciones relacionadas con las redes sociales y descubrirás que una publicación puede tener diferentes consecuencias según lo que compartimos, a quién involucra y cómo actúan las personas que reciben el contenido.
+
+Aquí no se trata de dejar de publicar, sino de aprender a tomar decisiones con más información y responsabilidad.
+
+### Botones
+
+**Comenzar mi recorrido**
+
+**Conoce cómo funciona**
+
+## 4.2. Sección «Antes de publicar, piensa»
+
+Debajo de la portada aparecerán tres preguntas destacadas visualmente:
+
+**¿Qué información estoy mostrando?**
+
+**¿A quién puede afectar mi publicación?**
+
+**¿Qué podría pasar si alguien la comparte?**
+
+Cada pregunta estará acompañada de un icono y una pequeña ilustración.
+
+Al seleccionar una tarjeta, aparecerá una explicación breve que conecte la pregunta con el problema ético central.
+
+## 4.3. Presentación del proyecto
+
+### Título
+
+**Un espacio para pensar, decidir y crear**
+
+### Texto
+
+HUELLA DIGITAL es una experiencia educativa interactiva en la que aprenderás a analizar situaciones relacionadas con lo que publicamos en redes sociales.
+
+Encontrarás historias ficticias, decisiones que no siempre son sencillas, diferentes puntos de vista y actividades que te permitirán construir tus propias respuestas.
+
+Durante el recorrido también crearás materiales que te ayudarán a expresar lo aprendido sobre identidad digital, privacidad, respeto y responsabilidad.
+
+Al finalizar tendrás una colección de trabajos elaborados por ti y una reflexión sobre la huella digital que deseas construir.
+
+# 5. Presentación del problema central
+
+## 5.1. Título de la sección
+
+**Una publicación. Diferentes consecuencias.**
+
+## 5.2. Introducción
+
+Imagina que compartes fotografías de una reunión con tus amigos. Para ti, la publicación representa un buen recuerdo y no parece tener nada de malo.
+
+Pero ¿qué sucede si una persona que aparece en las imágenes no quiere que se publiquen? ¿Qué pasa cuando otros usuarios guardan el contenido o lo comparten fuera de contexto?
+
+Una decisión que parecía sencilla puede generar preguntas sobre la privacidad, la libertad, el respeto y la responsabilidad.
+
+## 5.3. Historia principal: «Una publicación que llegó demasiado lejos»
+
+Un grupo de estudiantes de grado undécimo se reúne después de una actividad escolar. Durante el encuentro, uno de ellos toma varias fotografías y graba un video corto.
+
+Más tarde publica el contenido en sus redes sociales. En las imágenes aparecen sus compañeros, algunos detalles del lugar y comentarios que considera divertidos.
+
+La publicación comienza a recibir reacciones. Algunos usuarios comparten el video, mientras otros hacen comentarios que incomodan a uno de los compañeros.
+
+Cuando le piden que elimine el contenido, el estudiante responde que no quería causar problemas y que solamente estaba compartiendo un recuerdo.
+
+Sin embargo, descubre que varias personas ya guardaron las imágenes.
+
+### Primera actividad interactiva
+
+**Pregunta:** ¿En qué momento crees que aparece el problema?
+
+El estudiante podrá elegir entre:
+
+- Cuando decide publicar sin consultar a quienes aparecen.
+- Cuando las demás personas comienzan a compartir el contenido.
+- Cuando aparecen comentarios que incomodan a los participantes.
+- Considero que existen varios momentos que deben analizarse.
+
+Después de seleccionar una alternativa, deberá explicar brevemente su elección.
+
+### Retroalimentación
+
+La situación permite reconocer que un problema ético puede comenzar antes de que aparezcan consecuencias negativas.
+
+La decisión de publicar, el consentimiento de quienes aparecen, la difusión del contenido y las reacciones posteriores son aspectos que merecen analizarse.
+
+No existe una sola pregunta que resuelva toda la situación. Por eso, durante los siguientes módulos conocerás diferentes elementos que te ayudarán a construir una postura.
+
+# 6. Ruta interactiva de aprendizaje
+
+Después del caso principal aparecerá un mapa visual con seis módulos conectados.
+
+Cada módulo tendrá un número, una ilustración, un título, una pregunta y una descripción breve.
+
+El estudiante podrá reconocer qué contenidos trabajará y cuáles ha completado.
+
+Los módulos estarán organizados así:
+
+**Módulo 1. Mi identidad digital**  
+¿Qué dice de mí lo que publico?
+
+**Módulo 2. ¿Qué estoy compartiendo?**  
+¿Cuánta información revelo sin darme cuenta?
+
+**Módulo 3. No todo se publica**  
+¿Quién decide cuando aparecen otras personas?
+
+**Módulo 4. Lo que internet recuerda**  
+¿Borrar significa desaparecer?
+
+**Módulo 5. Mis decisiones, mis responsabilidades**  
+¿Qué razones sostienen mi decisión?
+
+**Módulo 6. Mi futuro digital**  
+¿Qué huella quiero dejar?
+
+Cada módulo contará con nueve momentos:
+
+1. Introducción.
+2. Conceptos principales.
+3. Caso hipotético.
+4. Análisis de la situación.
+5. Decisiones interactivas.
+6. Retroalimentación.
+7. Revisión de la decisión.
+8. Taller de creación.
+9. Reflexión de cierre.
+
+---
+
+# 7. MÓDULO 1. MI IDENTIDAD DIGITAL
+
+## Pregunta central
+
+**¿Qué dice de mí lo que publico?**
+
+## Introducción
+
+Cuando utilizamos redes sociales, compartimos una parte de nuestra vida: fotografías, opiniones, comentarios, intereses y momentos que queremos recordar.
+
+Con el tiempo, estas publicaciones pueden contribuir a la imagen que otras personas construyen de nosotros.
+
+Sin embargo, nuestra identidad no se resume en un perfil. Somos mucho más que las fotografías que publicamos o las reacciones que recibimos.
+
+En este módulo reflexionarás sobre la identidad digital y sobre cómo las decisiones que tomamos al publicar pueden influir en la manera como nos presentamos ante los demás.
+
+## Conceptos principales
+
+**Identidad digital:** conjunto de información, publicaciones e interacciones que contribuyen a representar a una persona en los entornos digitales.
+
+**Imagen personal:** manera como una persona decide presentarse ante otras.
+
+**Reputación digital:** percepción que otras personas pueden construir a partir de información y experiencias relacionadas con alguien en internet.
+
+**Autenticidad:** relación entre lo que una persona expresa y aquello que realmente piensa o desea comunicar.
+
+**Responsabilidad:** capacidad de considerar las consecuencias de las propias decisiones.
+
+## Caso interactivo: «La publicación de Valeria»
+
+Valeria cursa grado undécimo y utiliza una red social para compartir momentos con sus amigos.
+
+Un día publica un video en el que hace una broma sobre otra estudiante. La publicación recibe muchas reacciones y varios compañeros le comentan que debería seguir haciendo videos similares.
+
+Aunque al principio se siente contenta por la atención, después comienza a preguntarse si quiere que otras personas la reconozcan principalmente por ese tipo de contenido.
+
+Una amiga le dice que algunos compañeros han interpretado el video como una burla. Valeria considera que solamente quería divertirse y que una publicación no define quién es.
+
+### Actividad 1. Analiza la situación
+
+El estudiante deberá responder:
+
+- ¿Por qué Valeria publicó el video?
+- ¿Qué diferencia puede existir entre la intención de Valeria y la forma como otras personas interpretan su contenido?
+- ¿Una publicación puede influir en la reputación de alguien sin representar completamente quién es?
+- ¿Qué responsabilidades tiene Valeria frente a la otra estudiante?
+
+### Actividad 2. ¿Qué debería hacer Valeria?
+
+Se presentarán tres alternativas.
+
+**Alternativa A:** mantener el video porque recibió muchas reacciones y considera que fue una broma.
+
+**Alternativa B:** escuchar la opinión de su compañera y revisar el contenido antes de decidir si lo mantiene o elimina.
+
+**Alternativa C:** eliminar el video inmediatamente, sin conversar con nadie sobre lo ocurrido.
+
+El estudiante seleccionará una alternativa o propondrá una diferente y explicará sus razones.
+
+### Retroalimentación interactiva
+
+**Si selecciona A:** se explicará que recibir reacciones no es suficiente para determinar si una publicación fue respetuosa. Es necesario considerar la perspectiva de la persona involucrada.
+
+**Si selecciona B:** se mostrará cómo escuchar diferentes opiniones puede ayudar a comprender las consecuencias de una publicación y tomar una decisión mejor fundamentada.
+
+**Si selecciona C:** se explicará que retirar un contenido puede detener parte de su circulación, pero también puede ser importante reconocer lo ocurrido y considerar cómo responder frente a la persona afectada.
+
+La retroalimentación no otorgará una calificación moral automática. Permitirá comparar las razones y los límites de cada alternativa.
+
+### Actividad 3. Nueva información
+
+La estudiante que aparece en el video le escribe a Valeria y le explica que se sintió avergonzada porque otras personas comenzaron a repetir la broma.
+
+**Pregunta:** ¿Esta información cambia tu decisión inicial? Explica por qué.
+
+## Taller creativo: «Así quiero construir mi identidad digital»
+
+### Producto que elaborará el estudiante
+
+**Una ficha visual de identidad digital responsable.**
+
+La página ofrecerá una plantilla editable con cinco espacios:
+
+1. Tres valores que quiero reflejar en mis publicaciones.
+2. Tres tipos de contenido que me representan.
+3. Dos aspectos de mi vida que prefiero mantener privados.
+4. Una conducta que quiero evitar al publicar.
+5. Una frase que describa la imagen que deseo construir en internet.
+
+El estudiante podrá elegir iconos, organizar sus ideas y escribir sus respuestas.
+
+La plantilla se podrá guardar o descargar como una imagen o documento.
+
+### Reflexión final
+
+**¿Cómo puedo utilizar las redes sociales para expresar quién soy sin afectar el respeto que merecen otras personas?**
+
+### Aprendizaje de cierre
+
+Nuestra identidad digital se construye mediante muchas decisiones. Una publicación no define toda nuestra personalidad, pero sí puede influir en cómo otras personas nos conocen y se relacionan con nosotros.
+
+---
+
+# 8. MÓDULO 2. ¿QUÉ ESTOY COMPARTIENDO?
+
+## Pregunta central
+
+**¿Cuánta información revelo sin darme cuenta?**
+
+## Introducción
+
+Cuando compartimos una fotografía o un video, no siempre pensamos en toda la información que puede aparecer.
+
+Una imagen puede mostrar el lugar donde estamos, objetos personales, detalles de nuestra rutina o información sobre otras personas.
+
+En este módulo aprenderás a reconocer qué información puede quedar expuesta y por qué es importante revisar los contenidos antes de publicarlos.
+
+La intención no es generar miedo frente a las redes sociales, sino comprender que cuidar nuestra privacidad también es una forma de actuar responsablemente.
+
+## Conceptos principales
+
+**Privacidad:** posibilidad de mantener ciertos aspectos de la vida personal fuera del conocimiento público.
+
+**Datos personales:** información que permite identificar o relacionar datos con una persona.
+
+**Información sensible:** información que, por sus características, requiere especial protección.
+
+**Ubicación digital:** información que puede revelar dónde se encuentra una persona o qué lugares frecuenta.
+
+**Consentimiento:** autorización informada que una persona puede dar para determinados usos de su información o imagen.
+
+## Caso interactivo: «La fotografía de Samuel»
+
+Samuel toma una fotografía para mostrar que está disfrutando una tarde con sus amigos.
+
+En la imagen aparece una parte de su uniforme, el nombre del lugar donde se encuentran y una etiqueta con la ubicación.
+
+Samuel considera que la fotografía es normal y piensa publicarla para que sus compañeros puedan verla.
+
+Antes de hacerlo, una amiga le pregunta si ha revisado toda la información que aparece.
+
+### Actividad 1. Detective de publicaciones
+
+La página mostrará una publicación ficticia ilustrada.
+
+El estudiante deberá seleccionar los elementos que pueden revelar información personal:
+
+- Ubicación del lugar.
+- Nombre visible en el uniforme.
+- Etiquetas de otras personas.
+- Detalles que permiten reconocer un sitio frecuentado.
+- Otros elementos que considere importantes.
+
+Al seleccionar un elemento aparecerá una explicación sobre la información que podría revelar y por qué conviene analizarla.
+
+### Actividad 2. Toma una decisión
+
+**Alternativa A:** publicar la fotografía como está.
+
+**Alternativa B:** revisar la información visible, consultar a los compañeros y modificar algunos elementos antes de publicar.
+
+**Alternativa C:** decidir no publicar la fotografía.
+
+Después de seleccionar, el estudiante deberá explicar qué criterios utilizó para decidir.
+
+### Retroalimentación interactiva
+
+Se explicará que no toda publicación con información personal produce consecuencias negativas, pero es importante reconocer quién puede acceder a ella y qué usos podrían darse a esos datos.
+
+La decisión responsable depende de las circunstancias, del tipo de información, de las personas involucradas y de las razones para compartirla.
+
+### Actividad 3. Revisión del caso
+
+La página informará que la publicación inicialmente estaba pensada para un grupo pequeño, pero la configuración permitía que la observaran más personas.
+
+**Pregunta:** ¿Qué información revisarías ahora antes de tomar una decisión?
+
+## Taller creativo: «Mi filtro de privacidad»
+
+### Producto que elaborará el estudiante
+
+**Una infografía digital con recomendaciones argumentadas para revisar contenidos antes de compartirlos.**
+
+La plantilla tendrá tres momentos:
+
+**Antes de publicar:** ¿qué debo observar?
+
+**Mientras decido:** ¿qué derechos y personas debo considerar?
+
+**Después de publicar:** ¿qué puedo hacer si descubro que compartí información que no quería divulgar?
+
+El estudiante deberá escribir al menos dos recomendaciones en cada momento y explicar brevemente por qué son importantes.
+
+Podrá utilizar iconos de ubicación, imagen, privacidad, consentimiento y seguridad.
+
+### Reflexión final
+
+**¿Qué diferencia existe entre compartir una experiencia y exponer información que debería cuidarse?**
+
+### Aprendizaje de cierre
+
+Pensar antes de publicar también implica revisar la información visible y considerar quiénes podrían acceder a ella. La privacidad requiere decisiones informadas, no solamente configuraciones tecnológicas.
+
+---
+
+# 9. MÓDULO 3. NO TODO SE PUBLICA
+
+## Pregunta central
+
+**¿Quién decide cuando aparecen otras personas?**
+
+## Introducción
+
+Una fotografía puede ser importante para nosotros, pero también puede involucrar a otras personas que tienen opiniones diferentes sobre su publicación.
+
+Compartir una imagen o un comentario no depende únicamente de lo que nosotros queremos mostrar.
+
+En este módulo reflexionarás sobre el consentimiento, el respeto y las responsabilidades que surgen cuando publicamos contenidos donde aparecen compañeros, amigos o familiares.
+
+## Conceptos principales
+
+**Respeto:** reconocimiento de la dignidad y los derechos de otras personas.
+
+**Consentimiento:** autorización que debe considerarse cuando se utiliza información o imagen de otra persona.
+
+**Dignidad humana:** valor propio de todas las personas, que exige un trato respetuoso.
+
+**Empatía:** disposición para comprender cómo puede sentirse otra persona frente a una situación.
+
+**Convivencia digital:** formas de relación y participación respetuosa en los entornos digitales.
+
+## Caso interactivo: «La fotografía del grupo»
+
+Después de una actividad escolar, Camila publica varias fotografías con sus compañeros.
+
+En una de las imágenes aparece Nicolás en un momento que le resulta incómodo. Cuando observa la publicación, le pide a Camila que retire esa fotografía.
+
+Camila responde que la imagen también es suya porque ella la tomó y que no considera que sea ofensiva.
+
+Otros compañeros opinan que Nicolás está exagerando, mientras algunos consideran que Camila debería escuchar su solicitud.
+
+### Actividad 1. Conoce las perspectivas
+
+La página tendrá cuatro tarjetas de personajes:
+
+**Camila:** quiere conservar y compartir un recuerdo.
+
+**Nicolás:** no desea que esa fotografía sea pública.
+
+**Compañero que comenta:** considera que no debería existir un problema porque la imagen parece una broma.
+
+**Compañera que interviene:** cree que deben considerar la opinión de Nicolás.
+
+El estudiante seleccionará cada personaje para conocer sus razones.
+
+### Actividad 2. ¿Qué valores están en tensión?
+
+Se presentarán tarjetas con las palabras:
+
+- Libertad.
+- Respeto.
+- Autonomía.
+- Dignidad.
+- Responsabilidad.
+- Confianza.
+
+El estudiante deberá seleccionar cuáles intervienen en la situación y justificar cómo se relacionan con el caso.
+
+### Actividad 3. Decide y argumenta
+
+El estudiante comparará estas alternativas:
+
+**A:** mantener la fotografía porque quien la tomó considera que tiene derecho a publicarla.
+
+**B:** retirar la fotografía solicitada y dialogar sobre lo ocurrido.
+
+**C:** modificar la publicación para evitar que Nicolás aparezca.
+
+**D:** proponer otra alternativa.
+
+La actividad pedirá justificar qué derechos y razones se consideraron.
+
+### Retroalimentación interactiva
+
+La página explicará que una fotografía puede representar experiencias diferentes para las personas involucradas.
+
+También señalará que escuchar a alguien que manifiesta incomodidad es importante para reconocer su autonomía y dignidad.
+
+No se presentará el consentimiento como una palabra para memorizar, sino como un elemento que influye en las decisiones y en las relaciones de confianza.
+
+## Taller creativo: «Compartir también es respetar»
+
+### Producto que elaborará el estudiante
+
+**Una mini campaña digital de convivencia y consentimiento.**
+
+El estudiante elegirá entre:
+
+- Un cartel digital.
+- Una publicación tipo carrusel de tres tarjetas.
+- Una historieta de tres escenas.
+
+El material deberá incluir:
+
+1. Una situación que involucre la publicación de contenido de otra persona.
+2. Un conflicto relacionado con el consentimiento.
+3. Una propuesta de actuación respetuosa.
+4. Una frase final que invite a reflexionar.
+
+La página ofrecerá plantillas y recursos gráficos para elaborar el material.
+
+### Reflexión final
+
+**¿Por qué es importante escuchar la opinión de otras personas antes de publicar contenidos que las involucran?**
+
+### Aprendizaje de cierre
+
+Una publicación puede involucrar derechos e intereses distintos. Compartir responsablemente también significa reconocer que los demás pueden tener razones para no querer aparecer en determinados contenidos.
+
+---
+
+# 10. MÓDULO 4. LO QUE INTERNET RECUERDA
+
+## Pregunta central
+
+**¿Borrar significa desaparecer?**
+
+## Introducción
+
+En internet podemos publicar contenidos en pocos segundos. Sin embargo, eliminarlos no siempre significa que desaparezcan de todos los lugares donde fueron compartidos.
+
+Una fotografía puede ser guardada, reenviada o volver a aparecer tiempo después.
+
+En este módulo analizarás cómo se construye la huella digital y qué consecuencias pueden surgir cuando un contenido continúa circulando.
+
+## Conceptos principales
+
+**Huella digital:** rastros de información relacionados con la actividad de una persona en entornos digitales.
+
+**Huella digital activa:** información que una persona decide publicar o compartir de manera directa.
+
+**Huella digital pasiva:** información que puede recopilarse o generarse a partir de su actividad digital, según el funcionamiento de las plataformas.
+
+**Permanencia digital:** posibilidad de que un contenido siga disponible o almacenado después de su publicación inicial.
+
+**Reputación digital:** imagen que puede formarse sobre una persona a partir de la información disponible en internet.
+
+## Caso interactivo: «El video que volvió»
+
+Hace varios meses, Andrés publicó un video de una reunión con compañeros.
+
+Después de recibir algunos comentarios, decidió eliminarlo de su perfil.
+
+Tiempo más tarde, descubre que el video volvió a circular porque otra persona lo había guardado.
+
+Andrés considera que el asunto ya estaba resuelto cuando eliminó la publicación, pero ahora debe decidir cómo responder.
+
+### Actividad 1. Sigue el recorrido
+
+La página mostrará una línea de tiempo interactiva:
+
+1. Andrés graba el video.
+2. Decide publicarlo.
+3. Sus compañeros lo observan.
+4. Una persona lo descarga.
+5. Andrés elimina la publicación.
+6. Meses después, el video vuelve a circular.
+
+El estudiante seleccionará cada momento para analizar qué decisiones pueden influir en la circulación del contenido.
+
+### Actividad 2. ¿Qué podría hacer Andrés?
+
+El estudiante deberá comparar alternativas como:
+
+- Ignorar la situación.
+- Hablar con quien volvió a compartir el video.
+- Solicitar que se detenga la difusión.
+- Buscar orientación si el contenido está afectando a alguien.
+- Proponer otra alternativa.
+
+Después justificará su elección.
+
+### Retroalimentación interactiva
+
+Se explicará que eliminar una publicación puede reducir su disponibilidad en el perfil original, pero no garantiza que todas las copias desaparezcan.
+
+También se señalará que las posibles consecuencias dependen del tipo de contenido, de las personas que acceden a él y de las decisiones de quienes participan en su difusión.
+
+La actividad no buscará transmitir que todo lo publicado tendrá consecuencias negativas en el futuro, sino reconocer la importancia de valorar su posible circulación.
+
+## Taller creativo: «El recorrido de una publicación»
+
+### Producto que elaborará el estudiante
+
+**Una línea de tiempo visual interactiva o imprimible.**
+
+El estudiante diseñará el recorrido de una publicación ficticia desde el momento en que se crea hasta las posibles consecuencias posteriores.
+
+Debe incluir al menos seis momentos, una decisión importante y dos acciones que podrían ayudar a prevenir o atender una consecuencia negativa.
+
+La herramienta permitirá agregar títulos, textos breves, iconos y flechas.
+
+### Reflexión final
+
+**¿Qué debería considerar antes de publicar algo que otras personas podrían guardar o compartir?**
+
+### Aprendizaje de cierre
+
+La huella digital puede construirse a partir de diferentes actividades. Pensar antes de publicar implica reconocer que no siempre podemos controlar completamente el recorrido posterior de un contenido.
+
+---
+
+# 11. MÓDULO 5. MIS DECISIONES, MIS RESPONSABILIDADES
+
+## Pregunta central
+
+**¿Qué razones sostienen mi decisión?**
+
+## Introducción
+
+En las redes sociales es fácil compartir algo de inmediato, especialmente cuando una publicación parece divertida, interesante o sorprendente.
+
+Pero una decisión responsable necesita algo más que una reacción rápida.
+
+En este módulo aprenderás a comparar alternativas, reconocer valores que pueden entrar en conflicto y justificar tus decisiones considerando los derechos y el bienestar de otras personas.
+
+## Conceptos principales
+
+**Decisión ética:** elección que requiere considerar valores, derechos, responsabilidades y posibles consecuencias.
+
+**Dilema ético:** situación en la que existen razones o principios en tensión y es necesario examinar diferentes alternativas.
+
+**Argumentación:** explicación de una postura mediante razones.
+
+**Ética del deber:** perspectiva que permite examinar las acciones a partir del respeto por principios y por las personas.
+
+**Ética de las consecuencias:** perspectiva que permite examinar las decisiones considerando sus posibles efectos sobre las personas involucradas.
+
+## Caso interactivo: «Un video que todos quieren compartir»
+
+En un grupo de mensajería circula un video que muestra a un estudiante en una situación incómoda.
+
+Algunos compañeros consideran que el video es divertido y proponen publicarlo para que más personas puedan verlo.
+
+Laura recibe el contenido y piensa que, si lo comparte, posiblemente obtendrá muchas reacciones.
+
+Sin embargo, también sabe que la persona que aparece podría sentirse afectada.
+
+Laura debe decidir qué hacer.
+
+### Actividad 1. Examina las razones
+
+Se presentarán tarjetas con argumentos.
+
+**«Es divertido y muchas personas quieren verlo».**
+
+**«La persona que aparece puede sentirse afectada».**
+
+**«Si yo estuviera en esa situación, no me gustaría que lo compartieran».**
+
+**«Aunque Laura no grabó el video, reenviarlo también es una decisión».**
+
+El estudiante clasificará las tarjetas según los valores, derechos y consecuencias que considere relevantes.
+
+### Actividad 2. Dos formas de analizar la situación
+
+**Desde el respeto por las personas:** ¿la decisión reconoce la dignidad de quien aparece en el video?
+
+**Desde sus consecuencias:** ¿qué efectos podrían producirse si el contenido continúa circulando?
+
+El estudiante deberá escribir una respuesta breve para cada pregunta.
+
+### Actividad 3. Decide
+
+Podrá elegir:
+
+- Compartir el video.
+- No compartirlo.
+- Explicar a los compañeros por qué conviene detener su circulación.
+- Buscar ayuda si la situación puede afectar seriamente a alguien.
+- Proponer otra alternativa.
+
+El estudiante deberá justificar su posición con al menos dos razones.
+
+### Retroalimentación interactiva
+
+La página explicará que una decisión ética no depende solamente de la cantidad de personas que apoyan una acción o de la intención de quien la realiza.
+
+También implica considerar el respeto por los demás, las responsabilidades de cada participante y las consecuencias posibles.
+
+Se retomarán de manera sencilla las perspectivas éticas estudiadas en el Paso 2, relacionándolas con las decisiones del caso.
+
+### Actividad 4. Revisa tu decisión
+
+La página informará que la persona del video solicitó que dejaran de compartirlo y explicó que la situación le había generado dificultades con sus compañeros.
+
+**Pregunta:** ¿mantendrías tu decisión inicial? ¿Qué razones cambiaron o se fortalecieron?
+
+## Taller creativo: «Mi brújula ética digital»
+
+### Producto que elaborará el estudiante
+
+**Una matriz de análisis para tomar decisiones responsables.**
+
+La plantilla contendrá cinco apartados:
+
+1. Situación que debo resolver.
+2. Personas y derechos involucrados.
+3. Alternativas posibles.
+4. Consecuencias de cada alternativa.
+5. Decisión que considero más responsable y razones que la sustentan.
+
+El estudiante aplicará la matriz a un caso nuevo presentado por la página.
+
+### Reflexión final
+
+**¿Qué diferencia existe entre tomar una decisión por impulso y tomarla después de considerar sus consecuencias?**
+
+### Aprendizaje de cierre
+
+Tomar decisiones responsables implica examinar razones, reconocer derechos y considerar las consecuencias para las personas involucradas.
+
+---
+
+# 12. MÓDULO 6. MI FUTURO DIGITAL
+
+## Pregunta central
+
+**¿Qué huella quiero dejar?**
+
+## Introducción
+
+Las decisiones que tomamos en redes sociales forman parte de nuestra experiencia digital.
+
+Algunas publicaciones representan momentos importantes, intereses o ideas que deseamos compartir. Otras pueden dejar de representar lo que pensamos con el paso del tiempo.
+
+En este módulo reflexionarás sobre cómo quieres participar en los espacios digitales y qué criterios pueden ayudarte a construir una identidad digital responsable.
+
+La intención no es presentar el futuro como una consecuencia inevitable de nuestras publicaciones, sino reconocer que podemos revisar nuestras decisiones y construir nuevas formas de actuar.
+
+## Conceptos principales
+
+**Proyecto de vida:** conjunto de intereses, decisiones y metas que orientan el desarrollo personal.
+
+**Identidad digital responsable:** forma de participar en espacios digitales considerando los derechos propios y ajenos.
+
+**Autonomía:** capacidad de tomar decisiones reflexivas y reconocer sus consecuencias.
+
+**Reputación:** imagen que otras personas pueden construir a partir de la información disponible.
+
+**Compromiso ético:** decisión consciente de orientar las acciones a partir de principios y responsabilidades.
+
+## Caso interactivo: «La huella que quiero construir»
+
+Daniela se encuentra próxima a terminar el grado undécimo.
+
+Mientras organiza sus fotografías y publicaciones, encuentra contenidos antiguos que ya no representan completamente sus intereses actuales.
+
+Algunos le generan buenos recuerdos, otros le parecen poco respetuosos y otros contienen información que ahora preferiría mantener privada.
+
+Daniela comienza a preguntarse qué tipo de información desea conservar, qué quiere compartir y cómo puede participar en redes sociales de manera más responsable.
+
+### Actividad 1. Revisa las publicaciones ficticias
+
+La página presentará varias tarjetas de publicaciones simuladas:
+
+- Una fotografía de una actividad académica.
+- Un comentario escrito durante una discusión.
+- Una publicación con información personal.
+- Una campaña de apoyo a una causa social.
+- Una fotografía grupal compartida con autorización.
+
+El estudiante deberá identificar qué aspectos considera positivos, cuáles requieren revisión y qué preguntas haría antes de publicar contenidos similares.
+
+### Actividad 2. Construye tus criterios
+
+El estudiante seleccionará cinco principios que considere importantes para su participación digital.
+
+Entre ellos:
+
+- Pensar antes de publicar.
+- Respetar la privacidad.
+- Consultar a otras personas.
+- Revisar la información.
+- Evitar compartir contenidos que humillen.
+- Reconocer las consecuencias.
+- Expresar opiniones con respeto.
+- Buscar ayuda cuando sea necesario.
+
+Después deberá explicar cuáles considera prioritarios y por qué.
+
+### Retroalimentación interactiva
+
+Se explicará que no existe un único perfil digital ideal y que las personas pueden expresarse de maneras distintas.
+
+Lo importante es desarrollar criterios que permitan participar respetando la propia autonomía, la privacidad y los derechos de los demás.
+
+También se destacará que las decisiones pueden revisarse y que reconocer un error puede ser parte de actuar responsablemente.
+
+## Taller creativo: «Mi compromiso digital»
+
+### Producto que elaborará el estudiante
+
+**Un manifiesto visual personal de ciudadanía digital.**
+
+El material deberá contener:
+
+1. Un título propio.
+2. Cinco compromisos relacionados con sus decisiones digitales.
+3. Una explicación de por qué esos compromisos son importantes.
+4. Una acción que puede realizar para cuidar su privacidad.
+5. Una acción para respetar los derechos de otras personas.
+6. Una frase final que exprese la huella digital que desea construir.
+
+La página ofrecerá una plantilla tipo afiche editorial, con tipografía destacada, iconos e ilustraciones.
+
+El estudiante podrá descargar su manifiesto o incorporarlo al portafolio.
+
+### Reflexión final
+
+**¿Qué decisiones puedo empezar a tomar para construir una participación digital que refleje mis valores y respete a las demás personas?**
+
+### Aprendizaje de cierre
+
+Construir una huella digital responsable no significa dejar de participar en internet, sino hacerlo con mayor conciencia de lo que se comparte, de sus posibles consecuencias y de los derechos de otras personas.
+
+---
+
+# 13. Actividad integradora final
+
+## Título
+
+**El desafío final: antes de compartir**
+
+Esta actividad permitirá integrar los aprendizajes de los seis módulos.
+
+## Situación
+
+Un grupo de estudiantes organiza una actividad de despedida de grado undécimo.
+
+Durante la jornada se toman fotografías y videos que algunas personas desean publicar para recordar el evento.
+
+Una estudiante propone crear una publicación colectiva, pero descubre que algunas imágenes contienen información personal, una de las personas no quiere aparecer y un video podría interpretarse fuera de contexto.
+
+El grupo debe decidir cómo compartir los recuerdos de manera responsable.
+
+## Desarrollo interactivo
+
+### Momento 1. Comprender
+
+Identificar personajes, información disponible y posibles dificultades.
+
+### Momento 2. Analizar
+
+Reconocer los derechos, valores y responsabilidades involucrados.
+
+### Momento 3. Comparar
+
+Examinar diferentes posibilidades para realizar la publicación.
+
+### Momento 4. Decidir
+
+Construir una propuesta de publicación responsable y justificar sus características.
+
+### Momento 5. Revisar
+
+Conocer una nueva opinión de uno de los personajes y reconsiderar la propuesta.
+
+## Producto final
+
+**Diseño de una publicación responsable.**
+
+El estudiante elaborará una publicación ficticia utilizando una plantilla que incluya:
+
+- Imagen o ilustración seleccionada.
+- Texto de acompañamiento.
+- Información que decide mostrar.
+- Información que prefiere proteger.
+- Consideraciones sobre las personas involucradas.
+- Justificación ética de las decisiones.
+
+Además, deberá escribir un párrafo donde explique por qué considera que su propuesta respeta la privacidad, la dignidad y la responsabilidad digital.
+
+La actividad permitirá observar cómo aplica lo aprendido en una nueva situación.
+
+# 14. Portafolio digital: «Mis creaciones»
+
+La página contará con una sección donde el estudiante pueda reunir los materiales elaborados.
+
+## Productos del recorrido
+
+| Módulo | Producto |
+|---|---|
+| 1. Mi identidad digital | Ficha visual de identidad digital responsable. |
+| 2. ¿Qué estoy compartiendo? | Infografía sobre privacidad. |
+| 3. No todo se publica | Mini campaña de consentimiento y respeto. |
+| 4. Lo que internet recuerda | Línea de tiempo sobre el recorrido de una publicación. |
+| 5. Mis decisiones, mis responsabilidades | Matriz de análisis ético. |
+| 6. Mi futuro digital | Manifiesto visual de ciudadanía digital. |
+| Actividad integradora | Diseño de una publicación responsable y justificación. |
+
+Cada producto deberá tener una plantilla propia, instrucciones y criterios claros para su elaboración.
+
+El portafolio permitirá revisar el recorrido del estudiante y comparar sus ideas iniciales con los aprendizajes desarrollados.
+
+Se propone incluir las opciones «Editar», «Descargar», «Imprimir» y «Volver al módulo», siempre que se implementen y comprueben durante la construcción de la página.
+
+Para proteger la privacidad, se priorizará el uso de información ficticia y respuestas que no incluyan datos sensibles.
+
+# 15. Retroalimentación y seguimiento del aprendizaje
+
+La retroalimentación será una parte importante de la experiencia.
+
+Después de cada decisión, la página presentará explicaciones relacionadas con los derechos, valores y consecuencias del caso.
+
+No se utilizará únicamente un mensaje como «Correcto» o «Incorrecto», porque muchos problemas éticos requieren comparar argumentos y reconocer condiciones particulares.
+
+## Tipos de retroalimentación
+
+**Retroalimentación conceptual:** ayuda a comprender los conceptos que intervienen en la situación.
+
+**Retroalimentación sobre consecuencias:** muestra posibles efectos de una decisión.
+
+**Retroalimentación sobre perspectivas:** permite conocer cómo podrían interpretar la situación otros personajes.
+
+**Retroalimentación para revisar:** presenta nuevas razones que invitan a reconsiderar la respuesta inicial.
+
+**Retroalimentación del taller creativo:** utiliza criterios visibles para que el estudiante revise si su material reconoce el problema, presenta argumentos y propone acciones responsables.
+
+## Criterios para revisar los productos
+
+Los materiales elaborados deberán mostrar:
+
+- Comprensión del problema planteado.
+- Reconocimiento de derechos, valores o responsabilidades.
+- Análisis de posibles consecuencias.
+- Argumentación de las decisiones.
+- Propuestas de actuación respetuosas y responsables.
+- Claridad en la comunicación del producto.
+
+El docente podrá utilizar estos criterios para orientar el proceso de aprendizaje. La definición detallada de instrumentos de evaluación se desarrollará en la guía docente.
+
+# 16. Biblioteca de recursos
+
+La página contará con una sección de consulta que acompañe los módulos.
+
+## Recursos propuestos
+
+**Glosario digital:** definiciones breves de ciudadanía digital, identidad digital, privacidad, consentimiento, huella digital, reputación, responsabilidad y otros conceptos trabajados.
+
+**Derechos digitales:** explicación sencilla de la relación entre intimidad, buen nombre, libertad de expresión y protección de datos personales.
+
+**Preguntas frecuentes:** respuestas educativas a dudas como «¿Qué debo considerar antes de compartir una fotografía de otra persona?» o «¿Qué puedo hacer si alguien comparte una imagen mía que no quiero que circule?».
+
+**Fuentes de consulta:** referencias de los documentos utilizados para elaborar los contenidos, especialmente los referentes oficiales colombianos.
+
+**Ayuda para utilizar la página:** instrucciones sobre navegación, actividades, materiales y descargas.
+
+# 17. Diseño de la experiencia de usuario
+
+## 17.1. Navegación
+
+La página utilizará una navegación clara, con acceso al inicio, al recorrido de módulos y al portafolio.
+
+En cada módulo aparecerá un indicador de avance que permita reconocer las actividades desarrolladas.
+
+Los botones de navegación tendrán nombres comprensibles, como «Continuar», «Regresar», «Revisar mi respuesta» y «Crear mi material».
+
+## 17.2. Diseño adaptable
+
+La interfaz deberá ajustarse a computadores, tabletas y teléfonos móviles.
+
+En pantallas grandes, algunos contenidos podrán organizarse en dos columnas, colocando las ilustraciones junto a las explicaciones.
+
+En dispositivos móviles, los contenidos se presentarán en una sola columna para facilitar su lectura.
+
+## 17.3. Accesibilidad
+
+Se buscará que la experiencia pueda utilizarse mediante teclado y que los elementos interactivos tengan instrucciones claras.
+
+Los colores deberán mantener contraste suficiente y las imágenes informativas tendrán descripciones alternativas.
+
+No se utilizarán animaciones que dificulten la lectura o impidan comprender las actividades.
+
+## 17.4. Funcionamiento tecnológico
+
+Se propone desarrollar la página con tecnologías web que permitan su utilización mediante navegador.
+
+Las actividades principales deberán diseñarse para funcionar localmente cuando sea posible.
+
+Las respuestas y materiales se podrán manejar mediante mecanismos que no exijan crear cuentas de redes sociales ni proporcionar información sensible.
+
+Si se implementa almacenamiento local, se explicará que los datos pueden permanecer únicamente en el navegador o dispositivo utilizado y que podrían perderse al borrar los datos de navegación.
+
+Las opciones de descarga, impresión y recuperación de trabajos deberán probarse antes de presentarlas como funcionalidades terminadas.
+
+# 18. Pantalla de cierre
+
+## Título
+
+**Tu huella no termina aquí.**
+
+## Texto final
+
+Durante este recorrido analizaste situaciones relacionadas con las redes sociales, la privacidad, el respeto y las consecuencias de lo que compartimos.
+
+También conociste diferentes puntos de vista, tomaste decisiones y construiste materiales para expresar lo aprendido.
+
+Ahora tienes más herramientas para preguntarte qué información deseas compartir, a quién puede afectar una publicación y qué razones te ayudan a tomar una decisión responsable.
+
+Recuerda que participar en internet también implica reconocer a las personas que están al otro lado de la pantalla.
+
+**Cada publicación es una decisión. Piensa qué huella quieres dejar.**
+
+## Acciones finales
+
+**Ver mis creaciones**
+
+**Descargar mi portafolio**
+
+**Revisar los módulos**
+
+**Volver al inicio**
+
+# 19. Inventario final de producción
+
+La página web deberá incluir, como mínimo:
+
+| Grupo | Componentes previstos |
+|---|---|
+| Identidad visual | Logotipo, paleta de colores, tipografías, iconos e ilustraciones. |
+| Pantallas principales | Inicio, presentación del problema, ruta de módulos, portafolio, recursos y cierre. |
+| Módulos educativos | Seis módulos desarrollados con sus contenidos completos. |
+| Situaciones | Un caso principal, seis casos de módulo y un caso integrador final. |
+| Interacciones de decisión | Al menos una por módulo y una experiencia final de integración. |
+| Actividades de argumentación | Una por módulo y una justificación en el desafío final. |
+| Retroalimentaciones | Explicaciones para las alternativas, nuevas perspectivas y revisión de decisiones. |
+| Talleres creativos | Seis plantillas de productos y una plantilla de actividad final. |
+| Portafolio | Espacio para reunir, revisar y descargar los materiales cuando esas funciones estén implementadas. |
+| Recursos de consulta | Glosario, referentes sobre derechos, preguntas frecuentes y bibliografía. |
+| Recursos de apoyo | Instrucciones, alternativas imprimibles y orientaciones de accesibilidad. |
+| Comprobación | Revisión de navegación, funcionamiento, contenidos, accesibilidad y descargas. |
+
+# 20. Cierre de la propuesta de diseño
+
+HUELLA DIGITAL: Piensa antes de publicar se plantea como una página web educativa interactiva que integra contenidos de ciudadanía digital y formación ética mediante situaciones relacionadas con las decisiones que toman las personas en redes sociales.
+
+Su estructura permitirá que los estudiantes avancen desde el reconocimiento de su identidad digital hasta el análisis de la privacidad, el consentimiento, las consecuencias de las publicaciones y la construcción de criterios para actuar responsablemente.
+
+Los seis módulos estarán relacionados con un problema ético central y ofrecerán oportunidades para analizar casos, comparar alternativas, argumentar decisiones, recibir retroalimentación y elaborar materiales propios.
+
+La identidad gráfica utilizará una estética azul y blanco, con tipografías legibles, ilustraciones coherentes, tarjetas organizadas y una navegación clara. La intención es que el recurso tenga una apariencia cuidada, apropiada para estudiantes de grado undécimo y coherente con su propósito educativo.
+
+La página no se limitará a presentar información sobre redes sociales. Buscará que los estudiantes participen activamente, desarrollen sus propias ideas y comprendan que publicar y compartir contenidos implica considerar los derechos, las perspectivas y las posibles consecuencias para otras personas.
+
+Esta estructura será la base de la producción del material didáctico en el Paso 4.

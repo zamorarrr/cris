@@ -1,0 +1,6 @@
+{
+  "name": "HUELLA DIGITAL: Piensa antes de publicar",
+  "description": "Página web educativa interactiva sobre identidad digital, privacidad, consentimiento y responsabilidad ética en redes sociales para grado undécimo del Colegio Diego Montaña Cuéllar IED.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

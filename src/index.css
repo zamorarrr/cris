@@ -1,0 +1,98 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --hd-navy: #092E5D;
+    --hd-primary: #1557A6;
+    --hd-sky: #6FB9F3;
+    --hd-ice: #EAF5FF;
+    --hd-white: #FFFFFF;
+    --hd-muted: #52677F;
+    --hd-ink: #17314F;
+    --hd-border: #D6E4F2;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    font-family: 'DM Sans', system-ui, -apple-system, sans-serif;
+    color: var(--hd-ink);
+    background-color: var(--hd-white);
+  }
+
+  h1, h2, h3, h4, .font-display {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  }
+
+  .font-mono-tabular {
+    font-family: 'IBM Plex Mono', ui-monospace, SFMono-Regular, monospace;
+    font-variant-numeric: tabular-nums;
+  }
+
+  body {
+    font-size: 17px;
+    line-height: 1.65;
+  }
+
+  :focus-visible {
+    outline: 2px solid #1557A6;
+    outline-offset: 2px;
+  }
+}
+
+.editorial-prose {
+  max-width: 68ch;
+  font-size: 1.0625rem;
+  line-height: 1.72;
+  color: #17314F;
+}
+
+.headline-balance {
+  text-wrap: balance;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Estilos dedicados para impresión y guardado en PDF desde el navegador */
+@media print {
+  @page {
+    size: letter;
+    margin: 16mm;
+  }
+
+  body {
+    background: #FFFFFF !important;
+    color: #17314F !important;
+    font-size: 11pt !important;
+    line-height: 1.5 !important;
+  }
+
+  .no-print {
+    display: none !important;
+  }
+
+  .print-only {
+    display: block !important;
+  }
+
+  .print-break-inside-avoid {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  .print-page-break {
+    page-break-before: always;
+    break-before: page;
+  }
+
+  .print-surface {
+    box-shadow: none !important;
+    border: 1px solid #CBD5E1 !important;
+  }
+}
